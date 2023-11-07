@@ -1,0 +1,5 @@
+Student_id : 2313111144
+Student Name : Kittiphat Rupobol
+Major : IT
+Level : 1
+Faculty : Information Technology
